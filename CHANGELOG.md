@@ -1,6 +1,11 @@
 Change log
 -----------
 
+# v2.48.0+rev4
+## (2020-04-10)
+
+* Add skx2 machine from the older balena-jetson-skx2 repository [Florin Sarbu]
+
 # v2.48.0+rev3
 ## (2020-03-26)
 

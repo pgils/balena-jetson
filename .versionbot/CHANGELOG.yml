@@ -1,4 +1,16 @@
 - commits:
+    - subject: Add skx2 machine from the older balena-jetson-skx2 repository
+      hash: 4a8d4a41d7e8bf5641303ba861f6b885da8b3cf7
+      body: ''
+      footer:
+        Changelog-entry: Add skx2 machine from the older balena-jetson-skx2 repository
+        changelog-entry: Add skx2 machine from the older balena-jetson-skx2 repository
+        Signed-off-by: Florin Sarbu <florin@balena.io>
+        signed-off-by: Florin Sarbu <florin@balena.io>
+      author: Florin Sarbu
+  version: 2.48.0+rev4
+  date: 2020-04-10T15:01:08.208Z
+- commits:
     - subject: >-
         Make the linux-firmware integration bbappend apply to all recipe
         versions
